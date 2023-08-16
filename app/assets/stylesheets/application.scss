@@ -1,1 +1,9 @@
 @import "bootstrap";
+@import "font-awesome";
+
+.example {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 10px black;
+}
